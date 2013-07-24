@@ -1,2 +1,4 @@
 server_port:  5000
 auto: true
+prose:
+  a: 'b'
